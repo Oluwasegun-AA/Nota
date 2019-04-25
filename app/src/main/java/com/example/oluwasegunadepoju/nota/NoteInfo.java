@@ -3,9 +3,6 @@ package com.example.oluwasegunadepoju.nota;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-/**
- * Created by Jim.
- */
 
 public final class NoteInfo {
     private CourseInfo mCourse;
