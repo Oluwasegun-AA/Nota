@@ -189,6 +189,4 @@ public class DataManager {
 
         return new CourseInfo("java_core", "Java Fundamentals: The Core Platform", modules);
     }
-    //endregion
-
 }
