@@ -62,4 +62,5 @@ public final class NoteInfo {
     public String toString() {
         return getCompareKey();
     }
+
 }
